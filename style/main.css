@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'ProximaNovaA';
+    src: url("../fonts/ProximaNovaA-regular/ProximaNovaA-Regular.woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ProximaNovaT';
+    src: url("../fonts/ProximaNovaT/ProximaNovaT-Thin.woff");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'forever_brush_script';
+    src: url("../fonts/forever_brush_script/forever_brush_script.woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    font-family: 'ProximaNovaA';   
+    font-size: 16px;
+    line-height: 32px;
+    color: #ffffff;
+}
+
+.section1__title h1 {
+    font-family: 'ProximaNovaT';   
+    font-size: 72px;
+    
+}
+
+.title {
+    font-family: 'forever_brush_script';   
+    font-size: 56px;
+}
+
+.section4__title h2 {
+    color: #0b0c0d;
+}
+
+.main__nav a {
+    font-family: 'ProximaNovaA';
+    color: #ffffff;
+}
+
+.text {
+    font-family: 'ProximaNovaA';   
+    font-size: 18px;
+}
+
+.item-section4__text {
+    font-family: 'ProximaNovaA';   
+    line-height: 20px;
+    color: #6f7175;
+}
+
+.item-section4__prise {
+    font-family: 'ProximaNovaA';   
+    color: #c8235d;
+}
+
+.item-section4__name {
+    font-family: 'ProximaNovaA';  
+    color: #0b0c0d;
+}
+
+.footer a {
+    font-family: 'ProximaNovaA';
+    line-height: 24px;
+    color: #7d7f83;
+}
+
